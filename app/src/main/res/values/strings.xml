@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone nb.</string>
+    <string name="error_permission">you can not display the names , Until you grant the permission</string>
+    <string name="mobile">Mobile</string>
+    <string name="save">Save</string>
+    <string name="search_contact_hint">Search contact ...</string>
+    <string name="not_able_to_fetch_news">Not able to fetch contacts!</string>
+    <string name="you_don_t_have_contacts">You don\'t have contacts</string>
+</resources>

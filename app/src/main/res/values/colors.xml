@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/background</color>
+    <color name="colorPrimaryDark">@color/colorTealLight</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="photo_tint">#7f101010</color>
+
+    <color name="lightPrimaryColor">#F8BBD0</color>
+
+    <color name="primaryTextColor">#f2f2f2</color>
+    <color name="secondaryTextColor">#bababa</color>
+
+    <color name="dividerColor">#BDBDBD</color>
+
+    <color name="colorTab">@color/colorWhite</color>
+    <color name="colorTabBackground">@color/colorWhite</color>
+    <color name="colorViewBackground">@color/colorTeal</color>
+    <color name="colorRecyclerLineDivider">@color/colorPrimaryDark</color>
+    <color name="colorLineDivider">@color/colorYellow</color>
+    <color name="colorTabTint">@color/colorAccent</color>
+    <color name="logoColor">#1a73e8</color>
+
+    <color name="transparant">#ad131313</color>
+
+    <color name="ic_launcher_background">@color/colorWhite</color>
+    <color name="lightGrey">#aaaaaa</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#3700B3</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#F4FF81</color>
+    <color name="colorYellowDark">#fad02e</color>
+    <color name="colorTeal">#E0F2F1</color>
+    <color name="colorTealLight">#7CE0F2F1</color>
+    <color name="colorGreen">#00a61c</color>
+    <color name="colorOrange">#FF4500</color>
+    <color name="colorOrangeLight">#ff8021</color>
+    <color name="colorRed">#e41b21</color>
+    <color name="colorSkyBlue">#00CCFF</color>
+    <color name="colorLightBlue">#4169E1</color>
+    <color name="colorGreenLight">#26A69A</color>
+    <color name="colorGreenDark">#00796B</color>
+    <color name="colorPurpleLight">#E1BEE7</color>
+
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#464646</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+</resources>

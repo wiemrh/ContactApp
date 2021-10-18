@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.AppBarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/appBarLayout"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    app:elevation="0dp">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@android:color/black"
+        android:fontFamily="@font/robotoslab_bold"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        app:contentInsetStart="@dimen/dp5"
+        app:contentInsetStartWithNavigation="0dp"
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+        app:theme="@style/ToolbarTextAppearance"
+        app:title="@string/app_name"
+        app:titleTextColor="@color/colorWhite" />
+
+</com.google.android.material.appbar.AppBarLayout>
